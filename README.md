@@ -1,5 +1,5 @@
 # gba-boot-sequence
-Logic (saleae) dumps of the GBA booting sequence with a game inserted. Monitoring only control pins, data and address lines are not included.
+Logic (saleae) dumps of the GBA booting sequence. Monitoring only control pins, data and address lines are not included.
 
 ## Files
 
