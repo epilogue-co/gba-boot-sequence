@@ -11,4 +11,4 @@ Logic (saleae) dumps of the GBA booting sequence. Monitoring only control pins, 
 
 ## Setup
 
-![gba-boot-sequence](https://instagram.fotp3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/118539152_1002475370189911_5087953080949968896_n.jpg?_nc_ht=instagram.fotp3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=QUimQs-U6KwAX9tBk2A&_nc_tp=15&oh=e58cc68864c36819930308b008213b92&oe=5F8CFE07)
+![gba-boot-sequence](https://instagram.fotp3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/118539152_1002475370189911_5087953080949968896_n.jpg?_nc_ht=instagram.fotp3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ldkD9Qr89CcAX8xQXd8&tp=1&oh=d80af0fb928216344c028083c535d424&oe=602DAE70)
